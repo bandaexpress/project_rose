@@ -1,6 +1,14 @@
 # project_rose
 Project 1 from Columbia University Data Analytics Bootcamp
 
+# Research Statement
+
+The goal of our project is to examine 2021 US birth rate data for patterns in healthcare outcomes based on payment sources at delivery.
+
+# Hypothesis
+
+There is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 
+
 # Libraries
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation.
 - [Matplotlib](https://matplotlib.org/) - Creates data visualizations.
@@ -15,6 +23,8 @@ Project 1 from Columbia University Data Analytics Bootcamp
 3. The txt files were examined in Excel's power query editor to extract a sample file size small enough to upload to GitHub (50 mb).
 4. The output is a csv file with 100,000 rows. Each row contains Birth Rate Data for a single birth within the 2021 timeframe.
 5. Once the data has been read into the jupyter notebook there is additional data cleaning to rename column and row variables per inputs based on [NCHS documenation](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2021.pdf) and convert metric values to imperial for readability.
+
+* Insert screenshots of data files 
 
 The columns of data extracted from the txt file are:
 1. Birth Year

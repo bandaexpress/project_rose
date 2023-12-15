@@ -39,4 +39,4 @@ The columns of data extracted from the txt file are:
 TBD
 
 # Contributors
-Anthony Banda, Emily Sims, Daniel Kenet, Jarret Baum
+[Anthony Banda](https://github.com/bandaexpress), [Emily Sims](https://github.com/emilys28), [Daniel Kenet](https://github.com/dkenet), [Jarret Baum](https://github.com/jarretbaum)

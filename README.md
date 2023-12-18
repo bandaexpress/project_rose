@@ -62,22 +62,29 @@ The columns of data extracted from the txt file are:
 
 # Analysis 
 ## Resources Analysis: 
+We decided to look further into the Attendant at Birth column. We theorized that those with private insurance would be more likley to have a Doctor of Medicne (MD), Doctor of Osteopathy, or Licensed Midwife/  as the attedning physician vs those with Medicare. As Medicare patients may end up with the less certifed physicians. We conducted a Chi Squared test to to examine if there is a significant association between Attendent at Birth and Payment Sources. The p-value was extremely close to zero, signifying these variables are closely correlated. Figure 1 demonstrates that those with private insurance are more likely to have a Doctor of Medicine. 
+
+![attending_payment](https://github.com/bandaexpress/project_rose/assets/146903245/0717361d-a2ce-41eb-adfa-fa02092d6e78)
+
+Another resource we explored was the use of anesthesia- believing that those with private insurance would have a higher access and use of anesthesia vs Medicaid patients. Figure 2: Comparison of Anesthesia and Payment Source illustrates that those with private insurance are in fact more likely to use anesthesia during child birth. The p-value was zero, showing that anesthesia and payment source are also closely correlated. 
+![anesthesia_payment](https://github.com/bandaexpress/project_rose/assets/146903245/e90d1217-3fee-44d4-98e8-1c2ef97ac0cf)
+
 
 ## Baby Health Analysis:  
-In Fig 1: Mother Age vs Payment we can see that younger mothers come surprisingly from military personnel type of coverage.
+In Fig 3: Mother Age vs Payment we can see that younger mothers come surprisingly from military personnel type of coverage.
 
 ![mother_age_vs_payment_source](https://github.com/bandaexpress/project_rose/assets/146903245/f464bf88-6434-402a-8052-a51f9db1844a)
 
-Fig 2: Percentage of Low Weight Babies across Payment Source breaks down and shows how people with government support have higher chances of having a lower than healthy baby.
+Fig 4: Percentage of Low Weight Babies across Payment Source breaks down and shows how people with government support have higher chances of having a lower than healthy baby.
 ![percentage_low_weight_pie_chart](https://github.com/bandaexpress/project_rose/assets/146903245/58484b37-a8cf-41de-b35f-1994b097a974)
 
-Fig 3: Percentage of High Weight Babies across Payment Source shows that surprisingly natives have higher rate of overweight babies, with military personnel following.
+Fig 5: Percentage of High Weight Babies across Payment Source shows that surprisingly natives have higher rate of overweight babies, with military personnel following.
 ![percentage_high_weight_pie_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3ae4d0a4-c55c-4f38-96f0-52befdced120)
 
-In Fig 4: Percentage of Low/High Weight Babies based on Number of Living Children breaks down higher and lower weight of babies based on the number of children the mother had, the more risk she has of having an underweight baby, but that is also because the women are older on average by the third child so that has the risks associated accordingly. However, it is worth noting that for the first child there seem to also be a higher rate of low weight births.
+In Fig 6: Percentage of Low/High Weight Babies based on Number of Living Children breaks down higher and lower weight of babies based on the number of children the mother had, the more risk she has of having an underweight baby, but that is also because the women are older on average by the third child so that has the risks associated accordingly. However, it is worth noting that for the first child there seem to also be a higher rate of low weight births.
 ![living_children_vs_weight_category_percentage_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3a0477f4-52f9-4392-a9bf-4d67f6852f68)
 
-Additonally, we explored the babies' weight based on the different payment source options. A box plot enables us to visually understand how they compare to one another. Based on Fig 5: Relationship between Payment Source and Birth Weight, we can see that there is a slight increase in weight for babies' born with private insurance vs Medicaid. 
+Additonally, we explored the babies' weight based on the different payment source options. A box plot enables us to visually understand how they compare to one another. Based on Fig 7: Relationship between Payment Source and Birth Weight, we can see that there is a slight increase in weight for babies' born with private insurance vs Medicaid. 
 ![weight_payment](https://github.com/bandaexpress/project_rose/assets/146903245/ca7f598b-ee3c-495a-aacc-8260991bc071)
 
 
@@ -86,7 +93,7 @@ Based on our analysis, we can reasonably conclude that there is a positive corre
 
 While the differences between private insurance and government funded insurance (Medicare) aren't vastly different, there is still a statistically significant enough difference between the health of the babies born, and hospital resources afforded to the mother.   
 
-We believe our analysis would be a good stepping stone for further studies to explore additonal factors such as racial inequalities in healthcare, and broader US economic connections. 
+We believe our analysis would be a good stepping stone for further studies to explore additional factors such as racial inequalities in healthcare, broader US economic connections, and resource inequalities based on race. 
 
 # Requirements
 ## Completed Analysis Uploaded to GitHub (20 points)

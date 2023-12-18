@@ -61,7 +61,7 @@ The columns of data extracted from the txt file are:
 
 # Analysis 
 ## Resources Analysis: 
-First, our group our group created Figure 1: Bar Graph of WIC Counts for Each Payment Source to count all Women, Infant, and Children (WIC) per Payment Source to ... 
+First, our group our created Figure 1: Bar Graph of WIC Counts for Each Payment Source to count all Women, Infant, and Children (WIC) per Payment Source to examine utilization by payment source. The correlation coefficient between Payment Source and WIC is approximately -0.47, indicating a moderate negative correlation. This suggests that as one variable increases, the other tends to decrease.The p-value is very close to zero (0.0), which means that the observed correlation is statistically significant.
 
 ![wic_payment_source_bar_graph](https://github.com/bandaexpress/project_rose/assets/146903245/f0e43f80-3b8f-41fd-922c-cd82c35962e4)
 

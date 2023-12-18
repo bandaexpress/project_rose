@@ -9,6 +9,8 @@ The goal of our project is to examine 2021 US birth rate data for patterns in he
 
 There is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 
 
+# Research Questions
+
 # Libraries
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation.
 - [Matplotlib](https://matplotlib.org/) - Creates data visualizations.
@@ -55,7 +57,18 @@ The columns of data extracted from the txt file are:
 17. Birth Weight (lbs)
 
 # Analysis 
+In fig 1: Mother Age vs Payment we can see that younger mothers come surprisingly from military personnel type of coverage.
 
+![mother_age_vs_payment_source](https://github.com/bandaexpress/project_rose/assets/146903245/f464bf88-6434-402a-8052-a51f9db1844a)
+
+Fig 2: Percentage of Low Weight Babies across Payment Source breaks down and shows how people with government support have higher chances of having a lower than healthy baby.
+![percentage_low_weight_pie_chart](https://github.com/bandaexpress/project_rose/assets/146903245/58484b37-a8cf-41de-b35f-1994b097a974)
+
+Fig 3: Percentage of High Weight Babies across Payment Source shows that surprisingly natives have higher rate of overweight babies, with military personnel following.
+![percentage_high_weight_pie_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3ae4d0a4-c55c-4f38-96f0-52befdced120)
+
+Finally, fig 4: Percentage of Low/High Weight Babies based on Number of Living Children breaks down higher and lower weight of babies based on the number of children the mother had, the more risk she has of having an underweight baby, but that is also because the women are older on average by the third child so that has the risks associated accordingly. However, it is worth noting that for the first child there seem to also be a higher rate of low weight births.
+![living_children_vs_weight_category_percentage_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3a0477f4-52f9-4392-a9bf-4d67f6852f68)
 
 # Conclusion
 

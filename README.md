@@ -21,11 +21,19 @@ There is a positive correlation between birth rate data and payment sources at d
 # Data
 1. The data is available from the [National Center for Health Statistics](https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm) for the year 2021.
 2. The compressed files are over 200+ mb (uncompressed 4.6 GB) and are in text file format.
-3. The txt files were examined in Excel's power query editor to extract a sample file size small enough to upload to GitHub (50 mb).
-4. The output is a csv file with 100,000 rows. Each row contains Birth Rate Data for a single birth within the 2021 timeframe.
-5. Once the data has been read into the jupyter notebook, there is additional data cleaning to rename column and row variables per inputs based on [NCHS documenation](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2021.pdf), filter out unknown/not stated values, and convert metric values to imperial for readability.
+3. The txt files were examined in Excel's power query editor to extract a sample file size small enough to upload to GitHub (50 mb). Depicted in image 1 below. 
+4. The output is a csv file with 100,000 rows. Each row contains Birth Rate Data for a single birth within the 2021 timeframe. Depicted in image 2 below. 
+5. Once the data has been read into the jupyter notebook, there is additional data cleaning to rename column and row variables per inputs based on [NCHS documenation](https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/DVS/natality/UserGuide2021.pdf), filter out unknown/not stated values, and convert metric values to imperial for readability. Depicted in image 3 below. 
 
-* Insert screenshots of data files 
+Image 1: Excel output
+<img width="1233" alt="Screenshot 2023-12-18 at 4 34 11 PM" src="https://github.com/bandaexpress/project_rose/assets/146903245/25080a9f-744e-465b-a007-02e81d8cdfff">
+
+Image 2: Full dataframe from CSV file 
+<img width="992" alt="Screenshot 2023-12-17 at 9 50 24 PM" src="https://github.com/bandaexpress/project_rose/assets/146903245/0d429a5b-30bc-431f-bf6f-0422995a3851">
+
+Image 3: Cleaned dataframe using techniques described above. 
+<img width="990" alt="Screenshot 2023-12-18 at 4 31 14 PM" src="https://github.com/bandaexpress/project_rose/assets/146903245/1d4c2bc9-6225-4e59-8084-6786fe810846">
+
 
 The columns of data extracted from the txt file are:
 1. Birth Year

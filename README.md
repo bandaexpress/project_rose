@@ -11,7 +11,7 @@ There is a positive correlation between birth rate data and payment sources at d
 
 # Research Questions
 1. Does the use of private insurance typically leads to better care and/or resources?
-2. How do the different payment sources influence birth outcomes, like the physicality of the baby born?
+2. How do the different payment sources influence birth outcomes, like the health of the baby born?
 3. 
 
 # Libraries
@@ -74,7 +74,11 @@ Finally, fig 4: Percentage of Low/High Weight Babies based on Number of Living C
 ![living_children_vs_weight_category_percentage_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3a0477f4-52f9-4392-a9bf-4d67f6852f68)
 
 # Conclusion
+Based on our analysis, we can reasonably conclude that there is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 
 
+While the differences between private insurance and government funded insurance (Medicare) aren't vastly different, there is still a statistically significant enough difference between the health of the babies born, and hospital resources afforded to the mother.   
+
+We believe our analysis would be a good stepping stone for further studies to explore additonal factors such as racial inequalities in healthcare, and broader US economic connections. 
 
 # Requirements
 ## Completed Analysis Uploaded to GitHub (20 points)

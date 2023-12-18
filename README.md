@@ -12,7 +12,7 @@ There is a positive correlation between birth rate data and payment sources at d
 # Research Questions
 1. Does the use of private insurance typically leads to better care and/or resources?
 2. How do the different payment sources influence birth outcomes, like the health of the baby born?
-4. How common is each source of payment used when Infertility Treatment is necessary?
+3. How common is each source of payment used when Infertility Treatment is necessary?
 
 # Libraries
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation.
@@ -86,6 +86,7 @@ In Fig 6: Percentage of Low/High Weight Babies based on Number of Living Childre
 Additonally, we explored the babies' weight based on the different payment source options. A box plot enables us to visually understand how they compare to one another. Based on Fig 7: Relationship between Payment Source and Birth Weight, we can see that there is a slight increase in weight for babies' born with private insurance vs Medicaid. 
 ![weight_payment](https://github.com/bandaexpress/project_rose/assets/146903245/ca7f598b-ee3c-495a-aacc-8260991bc071)
 
+## Infertility Treatment Analysis
 
 # Conclusion
 Based on our analysis, we can reasonably conclude that there is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 

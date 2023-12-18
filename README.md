@@ -10,6 +10,9 @@ The goal of our project is to examine 2021 US birth rate data for patterns in he
 There is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 
 
 # Research Questions
+1. Does the use of private insurance typically leads to better care and/or resources?
+2. How do the different payment sources influence birth outcomes, like the physicality of the baby born?
+3. 
 
 # Libraries
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation.
@@ -71,6 +74,7 @@ Finally, fig 4: Percentage of Low/High Weight Babies based on Number of Living C
 ![living_children_vs_weight_category_percentage_chart](https://github.com/bandaexpress/project_rose/assets/146903245/3a0477f4-52f9-4392-a9bf-4d67f6852f68)
 
 # Conclusion
+
 
 # Requirements
 ## Completed Analysis Uploaded to GitHub (20 points)

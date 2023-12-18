@@ -61,6 +61,12 @@ The columns of data extracted from the txt file are:
 
 # Analysis 
 ## Resources Analysis: 
+First, our group our group created fig 1: Bar Graph of WIC Counts for Each Payment Source to count all Women, Infant, and Children (WIC) per Payment Source to ... 
+
+![wic_payment_source_bar_graph](https://github.com/bandaexpress/project_rose/assets/146903245/f0e43f80-3b8f-41fd-922c-cd82c35962e4)
+
+
+
 We decided to look further into the Attendant at Birth column. We theorized that those with private insurance would be more likley to have a Doctor of Medicne (MD), Doctor of Osteopathy, or Licensed Midwife/  as the attedning physician vs those with Medicare. As Medicare patients may end up with the less certifed physicians. We conducted a Chi Squared test to to examine if there is a significant association between Attendent at Birth and Payment Sources. The p-value was extremely close to zero, signifying these variables are closely correlated. Figure 1 demonstrates that those with private insurance are more likely to have a Doctor of Medicine. 
 
 ![attending_payment](https://github.com/bandaexpress/project_rose/assets/146903245/0717361d-a2ce-41eb-adfa-fa02092d6e78)
@@ -87,6 +93,7 @@ Additonally, we explored the babies' weight based on the different payment sourc
 ![weight_payment](https://github.com/bandaexpress/project_rose/assets/146903245/ca7f598b-ee3c-495a-aacc-8260991bc071)
 
 ## Infertility Treatment Analysis
+
 
 # Conclusion
 Based on our analysis, we can reasonably conclude that there is a positive correlation between birth rate data and payment sources at delivery in regards to various healthcare outcomes. 

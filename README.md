@@ -13,6 +13,7 @@ There is a positive correlation between birth rate data and payment sources at d
 1. Does the use of private insurance typically leads to better care and/or resources?
 2. How do the different payment sources influence birth outcomes, like the health of the baby born?
 3. 
+4. How common is each source of payment used when Infertility Treatment is necessary?
 
 # Libraries
 - [Pandas](https://pandas.pydata.org/) - Data analysis and manipulation.

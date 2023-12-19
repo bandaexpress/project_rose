@@ -127,33 +127,5 @@ https://docs.google.com/presentation/d/1N1s349-hj3Yi8iv_RMOcmPwwKKIq1DzLiIXdc5KC
 6. https://stackoverflow.com/questions/14262433/large-data-workflows-using-pandas
 7. https://stackoverflow.com/questions/44339824/capture-nested-exceptions-in-python
 
-# Requirements
-## Completed Analysis Uploaded to GitHub (20 points)
-1. Final data analysis contains ample and complete information in README file (10 points)
-2. Final repository is acceptable for professional quality presentation (10 points)
-
-## Visualizations (20 points)
-1. 6–8 visualizations of data (at least two per question) (10 points)
-2. Clear and accurate labeling of images (5 points)
-3. Visualizations supported with ample and precise explanation (5 points)
-
-## Analysis and Conclusion (20 points)
-1. Write-up summarizes major findings and implications at a professional level (5 points)
-2. Each question in the project proposal is answered with precise descriptions and findings (5 points)
-3. Findings are strongly supported with numbers and visualizations (5 points)
-4. Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis) (5 points)
-
-## Group Presentation (20 points)
-1. All group members spoke during the presentation (5 points)
-2. Group was well prepared (5 points)
-3. Presentation is relevant to material (5 points)
-4. Presentation maintains audience interest (5 points)
-
-## Slide Deck (20 points)
-1. Slides are visually clean and professional (5 points)
-2. Slides are relevant to material (5 points)
-3. Slides effectively demonstrate the project (5 points)
-4. Slides are clear and maintain audience interest (5 points)
-
 # Contributors
 [Anthony Banda](https://github.com/bandaexpress), [Emily Sims](https://github.com/emilys28), [Daniel Kenet](https://github.com/dkenet), [Jarret Baum](https://github.com/jarretbaum)

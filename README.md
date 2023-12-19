@@ -116,12 +116,14 @@ Private Insurance overwhelmingly serves as the primary payment method for births
 We believe our analysis would be a good stepping stone for further studies to explore additional factors such as racial inequalities in healthcare, broader US economic connections, and resource inequalities based on race. 
 
 
-# Stackoverflow.com References
-1. https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference/986145#986145
-2. https://stackoverflow.com/questions/7505775/python-remove-rows-based-on-lack-of-character
-3. https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects
-4. https://stackoverflow.com/questions/14262433/large-data-workflows-using-pandas
-5. https://stackoverflow.com/questions/44339824/capture-nested-exceptions-in-python
+# References
+1. Centers for Disease Control and Prevention. (2022). Birth Data Files. Vital Statistics Online.  https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+2. WHO: https://www.medicalnewstoday.com/articles/325630#average-weights
+3. https://stackoverflow.com/questions/986006/how-do-i-pass-a-variable-by-reference/986145#986145
+4. https://stackoverflow.com/questions/7505775/python-remove-rows-based-on-lack-of-character
+5. https://stackoverflow.com/questions/14446511/most-efficient-method-to-groupby-on-an-array-of-objects
+6. https://stackoverflow.com/questions/14262433/large-data-workflows-using-pandas
+7. https://stackoverflow.com/questions/44339824/capture-nested-exceptions-in-python
 
 # Requirements
 ## Completed Analysis Uploaded to GitHub (20 points)

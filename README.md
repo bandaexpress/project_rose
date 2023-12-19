@@ -115,6 +115,8 @@ Private Insurance overwhelmingly serves as the primary payment method for births
 
 We believe our analysis would be a good stepping stone for further studies to explore additional factors such as racial inequalities in healthcare, broader US economic connections, and resource inequalities based on race. 
 
+# Presentation Link
+https://docs.google.com/presentation/d/1N1s349-hj3Yi8iv_RMOcmPwwKKIq1DzLiIXdc5KCQ0w/edit?usp=sharing
 
 # References
 1. Centers for Disease Control and Prevention. (2022). Birth Data Files. Vital Statistics Online.  https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm

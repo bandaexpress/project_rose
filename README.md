@@ -93,6 +93,17 @@ Additonally, we explored the babies' weight based on the different payment sourc
 ![weight_payment](https://github.com/bandaexpress/project_rose/assets/146903245/ca7f598b-ee3c-495a-aacc-8260991bc071)
 
 ## Infertility Treatment Analysis
+The primary objective here was to understand the financial avenues chosen by individuals seeking assistance with infertility. Notably, 'Private Insurance' emerges prominently, suggesting a prevalent reliance on this avenue. 
+Fig 9: Infertility Treatment by Payment Source
+![InfertilityTreatmentbyPaymentSource](https://github.com/bandaexpress/project_rose/assets/146903245/1eba3893-7bd9-4b44-ba93-a78410e44d50)
+
+This insight unveils the substantial role of private insurance in supporting individuals through their infertility journeys. It's not just a financial choice; it reflects the intricate intersection of healthcare and personal paths to parenthood.
+Figure 10: Fertility Enhancing Drugs by Payment Source
+![FertilityEnhancingDrugsbyPaymentSource](https://github.com/bandaexpress/project_rose/assets/146903245/a08daba9-cc07-4193-b017-c032e771b2bc)
+
+Delving deeper into our data, a trend emerges. While exploring Infertility Treatment options, it's intriguing to note that slightly more individuals leaned towards 'Fertility Enhancing Drugs' compared to 'Assisted Reproductive Technology.'
+Figure 11: Asst. Reproductive Technology by Payment Source
+![AsstReproductiveTechnologybyPaymentSource](https://github.com/bandaexpress/project_rose/assets/146903245/cd6e0334-50cf-49d1-875d-e33dacbfdd2a)
 
 
 # Conclusion
